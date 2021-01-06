@@ -6,7 +6,7 @@ function Header() {
     <header>
       <h1>
         <HighlightIcon />
-        Keeper App
+        Notes App
       </h1>
     </header>
   );
